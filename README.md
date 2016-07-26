@@ -1,4 +1,4 @@
-## javascript orientado a objetos
+## JQuery - Iniciando
 Um simples ambiente de desenvolvimento Javascript utilizando:
 
 * CSS
@@ -18,4 +18,4 @@ Na variavel "Path" adicione o caminho onde está o arquivo "php.exe"
 Danilo Righetto - Web Developer
 
 ##Fonte
-https://www.schoolofnet.com/courses/orientacao-objetos-com-javascript
+https://www.schoolofnet.com/courses/jquery-iniciando
