@@ -6,7 +6,7 @@ Um simples ambiente de desenvolvimento Javascript utilizando:
 * PHP
 
 ## Utilização
-* clone este repositório: `https://github.com/righetto93/javascript-oo`
+* clone este repositório: `https://github.com/righetto93/jquery-iniciando/`
 * Dentro da pasta onde encontra-se o arquivo index.html
 * Use o comando: php-S localhost:8080
 * acesse no seu navegador a página: http://numero-do-ip:8080
