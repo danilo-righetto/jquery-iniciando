@@ -25,4 +25,17 @@ $(document).ready(function() {
         $(this).css('color', 'blue');
         alert('Botao azul clicado!');
     });
+
+    // Pega o valor da DIV e atribui a uma variavel
+    var bird = $('#bird').html();
+    $('#bird2').html(bird + ' voando com JQuery <br />');
+
+    //Para acessar a DIV usando a classe
+    var alerta = $('.bird').html();
+    alert(alerta);
+
+    // trocando a cor da ultima classe 'title' para 'green'
+    $('.title:last').css('color', 'green');
+
+
 });
